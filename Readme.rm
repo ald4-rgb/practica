@@ -1,0 +1,63 @@
+
+
+
+			Realizar guia para git  
+				|
+				|
+				|-----> Comandos de git 
+				
+				
+										git config --global user.name "John Doe"
+										
+										git config --global user.email johndoe@example.com
+
+										
+										git clone https://github.com/ald4-rgb/workSpaceDevops.git
+										
+										
+										git stash
+										
+										git stash --list
+										
+										git pull
+											
+										git stash pop 
+										
+										git add .   ===> Este comando sirve para decrile a git que vamos a subri cambios el puntito quiere decir que subirremos 
+														 todo
+																			
+										git dd -a   ===>  Este coamando es lo mismo que el de arriba hace exactamente lo mismo 
+										
+										git dd -all ===>  Este coamando es lo mismo que el de arriba hace exactamente lo mismo 
+										
+										git commit -m 'algua cosa que e realizado' ===> es para comprmeter el mensaje osea vamos a presubir nuestros cambios
+									
+										git push 
+										
+										git merge 
+										
+										git branch rama-local
+										
+										git branch publush rama-local
+										
+										git branch -all
+										
+										git branch --romte
+										
+										git branch -r 
+										
+										git checkout cambio-rama
+										
+										
+										
+										
+										
+										
+										
+										
+			
+			
+			
+
+
+
