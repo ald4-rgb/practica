@@ -2,8 +2,8 @@
 
 
 			Realizar guia para git  
-				
-				
+	Rama publish arruinada por un mergering
+		 		
 # Comandos de git 
 				
 				
@@ -42,7 +42,9 @@
 
 * git branch --romte
 
-* git branch -r 
+* git branch -r ==> ver ramas que esten en remoto
 
 * git checkout cambio-rama
+
+* git push --set-upstream origin publish ===> subir rama local a la ui de gitlab o github
 -----
