@@ -46,7 +46,7 @@ ddddddddddddddddd
 
 * git checkout cambio-rama
 <<<<<<< HEAD
-    cadsadsadsadsadsa un simple espacio ocaciona esto										
+    cadsadsadsadsadsa un simple espacio ocaciona esto	espacio doble         														
 =======
 										
 >>>>>>> a914033a1f29fe1284fcb40af99e313851ec4818
