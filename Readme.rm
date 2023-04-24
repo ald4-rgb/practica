@@ -4,7 +4,7 @@
 			Realizar guia para git  
 				
 				
-#Comandos de git 
+# Comandos de git 
 				
 				
 * git config --global user.name "John Doe"
@@ -45,4 +45,4 @@
 * git branch -r 
 
 * git checkout cambio-rama
-										
+-----
