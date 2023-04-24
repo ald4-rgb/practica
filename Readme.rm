@@ -1,6 +1,6 @@
 
-
-
+ddddddddddddddddd
+quiero hacer un cambio    
 			Realizar guia para git  
 	Rama publish arruinada por un mergering publish 
 		 		
@@ -45,6 +45,14 @@
 * git branch -r ==> ver ramas que esten en remoto
 
 * git checkout cambio-rama
+<<<<<<< HEAD
 
 * git push --set-upstream origin publish ===> subir rama local a la ui de gitlab o github
 -----
+=======
+<<<<<<< HEAD
+    cadsadsadsadsadsa un simple espacio ocaciona esto	espacio doble         														
+=======
+										
+>>>>>>> a914033a1f29fe1284fcb40af99e313851ec4818
+>>>>>>> Luist-Dev
