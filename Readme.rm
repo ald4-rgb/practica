@@ -46,6 +46,7 @@ quiero hacer un cambio
 
 * git checkout cambio-rama
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 * git push --set-upstream origin publish ===> subir rama local a la ui de gitlab o github
 -----
@@ -57,3 +58,8 @@ quiero hacer un cambio
 >>>>>>> a914033a1f29fe1284fcb40af99e313851ec4818
 >>>>>>> Luist-Dev
 uso de squahs
+=======
+---
+mezcla de cambios
+										
+>>>>>>> Ald-P1
